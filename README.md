@@ -8,11 +8,11 @@ Projeto desenvolvido para a disciplina de Desenvolvimento Mobile com React Nativ
 
 | Login e Autenticação | Home e Categorias | Mapa de Restaurantes |
 | :---: | :---: | :---: |
-| ![Login](./screenshots/login.png) | ![Home](./screenshots/home.png) | ![Mapa](./screenshots/mapa.png) |
+| ![Login](./screenshots/login.jpeg) | ![Home](./screenshots/home.jpeg) | ![Mapa](./screenshots/mapa.jpeg) |
 
 | Detalhes do Produto | Checkout (API CEP) | Modo Escuro |
 | :---: | :---: | :---: |
-| ![Detalhes](./screenshots/detalhes.png) | ![Checkout](./screenshots/checkout.png) | ![DarkMode](./screenshots/dark.png) |
+| ![Detalhes](./screenshots/detalhes.jpeg) | ![Checkout](./screenshots/checkout.jpeg) | ![DarkMode](./screenshots/dark.jpeg) |
 
 ---
 
